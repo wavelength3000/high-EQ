@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">私信助理</string>
-    <string name="a11y_desc">读取微信和抖音聊天窗口里的可见消息，生成候选回复填入输入框。只在你打开聊天页时工作，不遍历会话列表，不批量发送。</string>
-</resources>
